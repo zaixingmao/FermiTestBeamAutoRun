@@ -19,4 +19,7 @@ EXIT
 5) #Run auto run script
 python run.py --nEvents 1000 --fName test.txt
 
-python run.py -h # for all the possible options
+#to spy on run
+tail -f /home/hcalpro/sckao/11_11_4/hcal/hcalUHTR/run_log.txt
+
+# python run.py -h # for all the possible options
