@@ -1,0 +1,3 @@
+echo "ws 0x2 0x4"
+sleep 1
+echo "q"
